@@ -1,0 +1,7 @@
+D:\My\CShapr\Task05\UI\bin\Debug\UI.exe.config
+D:\My\CShapr\Task05\UI\bin\Debug\UI.exe
+D:\My\CShapr\Task05\UI\bin\Debug\UI.pdb
+D:\My\CShapr\Task05\UI\obj\Debug\UI.csprojAssemblyReference.cache
+D:\My\CShapr\Task05\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\My\CShapr\Task05\UI\obj\Debug\UI.exe
+D:\My\CShapr\Task05\UI\obj\Debug\UI.pdb
