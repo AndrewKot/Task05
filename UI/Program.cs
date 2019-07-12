@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using LogicInterface;
 
 namespace UI
 {
@@ -11,18 +12,25 @@ namespace UI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello, enter real value:");
 
-            //int a = 5;
-            //Console.WriteLine(a);
-            //Console.WriteLine(Convert.ToString(a << 1));
+            double a;
+            float f;
+            int i;
 
-            int b = 0b_0000_0000_0000_0000_0000_0000_0000_0100;
-            b = b << 10;
-            Console.WriteLine(Convert.ToString(b, 2));
+            a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit(a));
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit2(a));
 
-            float f = 12f;
+            string str = Console.ReadLine();
+            f = float.Parse(str, System.Globalization.CultureInfo.InvariantCulture.NumberFormat);
+            Console.WriteLine(f);
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit(f));
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit2(f));
 
+            i = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit(i));
+            Console.WriteLine(TranslateToBinary.GetDoubleInBit2(i));
 
             Console.ReadLine();
         }

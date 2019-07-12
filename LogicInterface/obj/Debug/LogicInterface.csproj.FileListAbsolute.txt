@@ -1,0 +1,12 @@
+C:\My\Csharp\Task05\LogicInterface\bin\Debug\LogicInterface.dll
+C:\My\Csharp\Task05\LogicInterface\bin\Debug\LogicInterface.pdb
+C:\My\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.csproj.CoreCompileInputs.cache
+C:\My\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.dll
+C:\My\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.pdb
+C:\My\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.csprojAssemblyReference.cache
+D:\MY___\Csharp\Task05\LogicInterface\bin\Debug\LogicInterface.dll
+D:\MY___\Csharp\Task05\LogicInterface\bin\Debug\LogicInterface.pdb
+D:\MY___\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.csprojAssemblyReference.cache
+D:\MY___\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.csproj.CoreCompileInputs.cache
+D:\MY___\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.dll
+D:\MY___\Csharp\Task05\LogicInterface\obj\Debug\LogicInterface.pdb
